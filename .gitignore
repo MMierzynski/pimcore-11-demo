@@ -51,3 +51,6 @@ nbproject
 
 # supervisor
 supervisord.pid
+
+# bundles
+/bundles
